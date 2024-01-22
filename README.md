@@ -1,1 +1,1 @@
-dimension preference : Iphone SE | 375 X 667
+Preference de dimension : Iphone SE | 375 X 667
