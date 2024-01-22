@@ -26,25 +26,64 @@ h2 {
   line-height: 40px;
 }
 
+h3 {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin-top: 5%;
+}
+
 span {
   text-decoration: underline;
   text-decoration-color: #4EE1A0;
 }
 
 a {
+
   margin: 10px;
   text-decoration: none;
 }
 
 p{
-  padding-bottom: 10%;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
+}
+
+.contact {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-decoration: 2px underline;
+  color: #ffffff;
+  text-decoration-color: #4EE1A0;
+  transition: all 0.5s ease;
+}
+
+.contact:hover {
+  color: #4EE1A0;
 }
 
 .profile img{
   width: 174px;
   height: 383px;
   margin-bottom: 10%;
+}
+
+.rectangle {
+  margin-top: 10%;
+  margin-left: 10%;
+  background: #FFFFFF;
+  width: 290px;
+  height: 1px;
+}
+
+.experience {
+  margin-top: 10%;
+}
+
+.experience p {
+
+  color: #D9D9D9;
 }
