@@ -39,7 +39,6 @@ span {
 }
 
 a {
-
   margin: 10px;
   text-decoration: none;
 }
@@ -87,4 +86,50 @@ p{
 .experience p {
 
   color: #D9D9D9;
+}
+
+.projet {
+  display: flex;
+}
+
+.projet h3{
+  font-size: 40px;
+ margin-top: 13%;
+ margin-left: 3%;
+}
+
+.projet a{
+  margin-left: 34%;
+  margin-top: 17%;
+}
+
+.cardbox {
+  display: flexbox;
+}
+
+.cardbox h4 {
+  font-size: 24px;
+  font-weight: 700;
+  padding-left: 13px;
+  text-align: left;
+}
+
+.cardbox .paragraphe {
+  color: rgb(230, 230, 230);
+  padding-top: 10px;    
+  padding-left: 13px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.cardbox .view {
+  padding-top: 5%;
+  display: flex;
+}
+
+.card img{
+  padding-top: 45px;
+  width: 345px;
+  height: 300px;
+  left: 15px;
 }
